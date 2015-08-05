@@ -1,0 +1,1 @@
+.button,.other-button{display:inline-block;vertical-align:bottom;border-radius:3px;text-decoration:none}.button{padding:5px 10px;background:green;color:#fff;min-width:50px}.button:hover{color:#adff2f}.button__error{background:red}.other-button{padding:10px 15px;background:#f08080;color:#ffffe0}.other-button:hover{background:#ffb6c1}.other-button__some{background:red}

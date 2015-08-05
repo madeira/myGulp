@@ -1,0 +1,20 @@
+//=include block-1_doc.txt
+
+.button {
+    display: inline-block;
+    vertical-align: bottom;
+    padding: 5px 10px;
+    background: green;
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    min-width: $block-width;
+
+    &:hover {
+        color: greenyellow;
+    }
+
+    &__error {
+        background: red;
+    }
+}

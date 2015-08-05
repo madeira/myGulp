@@ -1,0 +1,7 @@
+.button.pseudo-class-hover {
+  color: greenyellow;
+}
+
+.other-button.pseudo-class-hover {
+  background: LightPink;
+}

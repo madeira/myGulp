@@ -1,0 +1,11 @@
+//Buttons
+//
+//<b>button</b> -- normall button class
+//
+//<b>button__error</b> -- error button modificator
+//
+//markup:
+//<a href="#" class="button">Button text</a>
+//<a href="#" class="button button__error">Button text</a>
+//
+//Styleguide 1.0

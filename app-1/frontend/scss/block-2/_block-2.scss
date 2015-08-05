@@ -1,0 +1,27 @@
+//other-button
+//
+//.other-button - button 
+//.other-button.other-button__some - button with error
+//
+//markup:
+//<a href="#" class="sg {$modifiers}">Button text</a>
+//
+//Styleguide 1.1
+
+.other-button {
+    display: inline-block;
+    vertical-align: bottom;
+    padding: 10px 15px;
+    background: lightcoral;
+    color: lightyellow;
+    border-radius: 3px;
+    text-decoration: none;
+
+    &:hover {
+        background: LightPink;
+    }
+
+    &__some {
+        background: red;
+    }
+}
